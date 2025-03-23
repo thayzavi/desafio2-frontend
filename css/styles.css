@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #d37b08;
 }
 
 .container {
@@ -31,7 +31,7 @@ input, textarea {
 
 button {
     padding: 10px;
-    background-color: #28a745;
+    background-color: #a15b00;
     color: white;
     border: none;
     border-radius: 4px;
