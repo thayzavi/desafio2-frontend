@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/complaints';
+const API_URL = 'https://desafio2-backend.onrender.com/api/complaints';
 
 document.getElementById('complaintForm').addEventListener('submit', async (e) => {
     e.preventDefault();
